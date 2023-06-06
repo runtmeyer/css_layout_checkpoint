@@ -169,24 +169,11 @@ header img{
 .logo-section-wrapper{
     display: flex;
     justify-content: space-between;
-    
+
 }
 
-
-
-/*.logo-section div{
-    width: 60%;
-    display: flex;
-}*/
-
-/*.logo-items{
-    display: flex;
-    gap: 2rem;
-    flex-wrap: wrap;
-}*/
-
 .logo-items img{
-    height: 15px;
+    width: 70px;
     margin-left: 50px;
     margin-bottom: 50px;
 }
